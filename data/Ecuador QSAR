@@ -1,0 +1,1191 @@
+
+PMID- 35213965
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220301
+IS  - 1999-4923 (Print)
+IS  - 1999-4923 (Linking)
+VI  - 14
+IP  - 2
+DP  - 2022 Jan 19
+TI  - In Silico Searching for Alternative Lead Compounds to Treat Type 2 Diabetes
+      through a QSAR and Molecular Dynamics Study.
+LID - 232 [pii]
+LID - 10.3390/pharmaceutics14020232 [doi]
+AB  - Free fatty acid receptor 1 (FFA1) stimulates insulin secretion in pancreatic
+      beta-cells. An advantage of therapies that target FFA1 is their reduced risk of
+      hypoglycemia relative to common type 2 diabetes treatments. In this work,
+      quantitative structure-activity relationship (QSAR) approach was used to
+      construct models to identify possible FFA1 agonists by applying four different
+      machine-learning algorithms. The best model (M2) meets the Tropsha's test
+      requirements and has the statistics parameters R(2) = 0.843, Q(2)CV = 0.785, and 
+      Q(2)ext = 0.855. Also, coverage of 100% of the test set based on the
+      applicability domain analysis was obtained. Furthermore, a deep analysis based on
+      the ADME predictions, molecular docking, and molecular dynamics simulations was
+      performed. The lipophilicity and the residue interactions were used as relevant
+      criteria for selecting a candidate from the screening of the DiaNat and DrugBank 
+      databases. Finally, the FDA-approved drugs bilastine, bromfenac, and fenofibric
+      acid are suggested as potential and lead FFA1 agonists.
+FAU - Cabrera, Nicolas
+AU  - Cabrera N
+AD  - Department of Biomedical Engineering, Texas A&M University, College Station, TX
+      77843, USA.
+FAU - Cuesta, Sebastian A
+AU  - Cuesta SA
+AD  - Department of Chemistry, Manchester Institute of Biotechnology, The University of
+      Manchester, 131 Princess Street, Manchester M1 7DN, UK.
+AD  - Grupo de Quimica Computacional y Teorica (QCT-USFQ), Departamento de Ingenieria
+      Quimica, Universidad San Francisco de Quito, Diego de Robles y via Interoceanica,
+      Quito 170901, Ecuador.
+FAU - Mora, Jose R
+AU  - Mora JR
+AUID- ORCID: 0000-0001-6128-9504
+AD  - Grupo de Quimica Computacional y Teorica (QCT-USFQ), Departamento de Ingenieria
+      Quimica, Universidad San Francisco de Quito, Diego de Robles y via Interoceanica,
+      Quito 170901, Ecuador.
+FAU - Calle, Luis
+AU  - Calle L
+AD  - Faculty of Pharmacy, University of Granada, 18011 Granada, Spain.
+AD  - Facultad de Ciencias Medicas, Instituto de Investigacion e Innovacion en Salud
+      Integral, Universidad Catolica Santiago de Guayaquil, Guayaquil 09013493,
+      Ecuador.
+FAU - Marquez, Edgar A
+AU  - Marquez EA
+AUID- ORCID: 0000-0002-7503-1528
+AD  - Grupo de Investigaciones en Quimica y Biologia, Departamento de Quimica y
+      Biologia, Facultad de Ciencias Exactas, Universidad del Norte, Carrera 51B, Km 5,
+      via Puerto Colombia, Barranquilla 081007, Colombia.
+FAU - Kaunas, Roland
+AU  - Kaunas R
+AD  - Department of Biomedical Engineering, Texas A&M University, College Station, TX
+      77843, USA.
+FAU - Paz, Jose Luis
+AU  - Paz JL
+AUID- ORCID: 0000-0002-6177-7919
+AD  - Departamento Academico de Quimica Inorganica, Facultad de Quimica e Ingenieria
+      Quimica, Universidad Nacional Mayor de San Marcos, Cercado de Lima 15081, Peru.
+LA  - eng
+PT  - Journal Article
+DEP - 20220119
+PL  - Switzerland
+TA  - Pharmaceutics
+JT  - Pharmaceutics
+JID - 101534003
+PMC - PMC8879932
+OTO - NOTNLM
+OT  - agonits of FFA1
+OT  - free fatty acid receptor 1
+OT  - molecular docking
+OT  - molecular dynamics
+OT  - type 2 diabetes
+EDAT- 2022/02/27 06:00
+MHDA- 2022/02/27 06:01
+CRDT- 2022/02/26 01:01
+PHST- 2021/11/17 00:00 [received]
+PHST- 2021/12/28 00:00 [revised]
+PHST- 2022/01/07 00:00 [accepted]
+PHST- 2022/02/26 01:01 [entrez]
+PHST- 2022/02/27 06:00 [pubmed]
+PHST- 2022/02/27 06:01 [medline]
+AID - pharmaceutics14020232 [pii]
+AID - 10.3390/pharmaceutics14020232 [doi]
+PST - epublish
+SO  - Pharmaceutics. 2022 Jan 19;14(2). pii: pharmaceutics14020232. doi:
+      10.3390/pharmaceutics14020232.
+
+PMID- 33241943
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210208
+LR  - 20210208
+IS  - 1029-046X (Electronic)
+IS  - 1026-776X (Linking)
+VI  - 32
+IP  - 1
+DP  - 2021 Jan
+TI  - QSAR and molecular docking modelling of anti-leishmanial activities of organic
+      selenium and tellurium compounds.
+PG  - 29-50
+LID - 10.1080/1062936X.2020.1848914 [doi]
+AB  - Leishmaniasis affects mainly rural areas and the poorest people in the world. A
+      computational study of the antileishmanial activity of organic selenium and
+      tellurium compounds was performed. The 3D structures of the compounds were
+      optimized at the wb97xd/lanl2dz level and used in the quantitative
+      structure-activity relationship (QSAR) analysis. The antileishmanial activity was
+      measured by L. donovani beta carbonic anhydrase inhibition (Ki) and the
+      half-maximal inhibitory concentration (IC50) against L. infantum amastigotes. The
+      dataset was divided into training (75%) and test sets (25%) by using a k-means
+      clustering algorithm. For pKi prediction, model M3 with seven 3D topographic
+      descriptors was characterized by the following statistical parameters: r (2) =
+      0.879, Q (2) LOO = 0.822, and Q (2) ext = 0.840. For pIC50 prediction, model M12 
+      with six attributes was characterized by the following statistical parameters: r 
+      (2) = 0.907, Q (2) LOO = 0.824, and Q (2) ext = 0.795. Both models met all the
+      requirements of Tropsha s test, which implies predictions of pIC50 and pKi
+      activities with high accuracy. Concomitantly, favourable interactions of the
+      sulphonamide group with the Zn atom in the protein were revealed by the docking
+      analysis.
+FAU - Cabrera, N
+AU  - Cabrera N
+AUID- ORCID: https://orcid.org/0000-0002-9678-6823
+AD  - Department of Biomedical Engineering, Texas A&M University , College Station, TX,
+      USA.
+FAU - Mora, J R
+AU  - Mora JR
+AUID- ORCID: https://orcid.org/0000-0001-6128-9504
+AD  - Grupo de Quimica Computacional y Teorica (QCT-USFQ), Departamento de Ingenieria
+      Quimica, Universidad San Francisco de Quito , Quito, Ecuador.
+FAU - Marquez, E
+AU  - Marquez E
+AUID- ORCID: https://orcid.org/0000-0002-7503-1528
+AD  - Grupo de Investigaciones en Quimica y Biologia, Departamento de Quimica y
+      Biologia, Facultad de Ciencias Exactas, Universidad del Norte , Barranquilla,
+      Colombia.
+FAU - Flores-Morales, V
+AU  - Flores-Morales V
+AUID- ORCID: https://orcid.org/0000-0003-4540-1011
+AD  - Laboratorio de Sintesis Asimetrica y Bioenergetica (LSAyB), Ingenieria Quimica
+      (UACQ), Program of Doctorate in Sciences with Orientation in Molecular Medicine, 
+      Academic Unit of Human Medicine and Health Sciences, Universidad Autonoma de
+      Zacatecas , Zacatecas, Mexico.
+FAU - Calle, L
+AU  - Calle L
+AD  - Instituto de Investigacion e Innovacion en Salud Integral (ISAIN), Facultad de
+      Ciencias Medicas, Universidad Catolica Santiago de Guayaquil , Guayaquil,
+      Ecuador.
+FAU - Cortes, E
+AU  - Cortes E
+AD  - Grupo de Investigacion en Ciencias Naturales y Exactas, Departamento de Ciencias 
+      Naturales y Exactas, Universidad de la Costa , Barranquilla, Colombia.
+LA  - eng
+PT  - Journal Article
+DEP - 20201126
+PL  - England
+TA  - SAR QSAR Environ Res
+JT  - SAR and QSAR in environmental research
+JID - 9440156
+RN  - 0 (Antiprotozoal Agents)
+RN  - 0 (Selenium Compounds)
+RN  - NQA0O090ZJ (Tellurium)
+SB  - IM
+MH  - Antiprotozoal Agents/*pharmacology
+MH  - Leishmania donovani/*drug effects
+MH  - Leishmania infantum/*drug effects
+MH  - *Molecular Docking Simulation
+MH  - *Quantitative Structure-Activity Relationship
+MH  - Selenium Compounds/*pharmacology
+MH  - Tellurium/*pharmacology
+OTO - NOTNLM
+OT  - Leishmaniasis
+OT  - QSAR
+OT  - docking analysis
+OT  - organic selenium compounds
+OT  - protozoan parasites
+EDAT- 2020/11/27 06:00
+MHDA- 2021/02/09 06:00
+CRDT- 2020/11/26 12:06
+PHST- 2020/11/27 06:00 [pubmed]
+PHST- 2021/02/09 06:00 [medline]
+PHST- 2020/11/26 12:06 [entrez]
+AID - 10.1080/1062936X.2020.1848914 [doi]
+PST - ppublish
+SO  - SAR QSAR Environ Res. 2021 Jan;32(1):29-50. doi: 10.1080/1062936X.2020.1848914.
+      Epub 2020 Nov 26.
+
+PMID- 33172092
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201204
+LR  - 20201214
+IS  - 1420-3049 (Electronic)
+IS  - 1420-3049 (Linking)
+VI  - 25
+IP  - 21
+DP  - 2020 Nov 6
+TI  - Drugs Repurposing Using QSAR, Docking and Molecular Dynamics for Possible
+      Inhibitors of the SARS-CoV-2 M(pro) Protease.
+LID - E5172 [pii]
+LID - 10.3390/molecules25215172 [doi]
+AB  - Wuhan, China was the epicenter of the first zoonotic transmission of the severe
+      acute respiratory syndrome coronavirus clade 2 (SARS-CoV-2) in December 2019 and 
+      it is the causative agent of the novel human coronavirus disease 2019 (COVID-19).
+      Almost from the beginning of the COVID-19 outbreak several attempts were made to 
+      predict possible drugs capable of inhibiting the virus replication. In the
+      present work a drug repurposing study is performed to identify potential
+      SARS-CoV-2 protease inhibitors. We created a Quantitative Structure-Activity
+      Relationship (QSAR) model based on a machine learning strategy using hundreds of 
+      inhibitor molecules of the main protease (M(pro)) of the SARS-CoV coronavirus.
+      The QSAR model was used for virtual screening of a large list of drugs from the
+      DrugBank database. The best 20 candidates were then evaluated in-silico against
+      the M(pro) of SARS-CoV-2 by using docking and molecular dynamics analyses.
+      Docking was done by using the Gold software, and the free energies of binding
+      were predicted with the MM-PBSA method as implemented in AMBER. Our results
+      indicate that levothyroxine, amobarbital and ABP-700 are the best potential
+      inhibitors of the SARS-CoV-2 virus through their binding to the M(pro) enzyme.
+      Five other compounds showed also a negative but small free energy of binding:
+      nikethamide, nifurtimox, rebimastat, apomine and rebastinib.
+FAU - Tejera, Eduardo
+AU  - Tejera E
+AD  - Grupo de Bio-Quimioinformatica, Universidad de Las Americas, Quito 170513,
+      Ecuador.
+AD  - Facultad de Ingenieria y Ciencias Aplicadas, Universidad de Las Americas, Quito
+      170513, Ecuador.
+FAU - Munteanu, Cristian R
+AU  - Munteanu CR
+AUID- ORCID: 0000-0002-5628-2268
+AD  - Faculty of Computer Science, Centre for Information and Communications Technology
+      Research (CITIC), University of A Coruna, 15007 A Coruna, Spain.
+AD  - Biomedical Research Institute of A Coruna (INIBIC), University Hospital Complex
+      of A Coruna (CHUAC), 15006 A Coruna, Spain.
+FAU - Lopez-Cortes, Andres
+AU  - Lopez-Cortes A
+AUID- ORCID: 0000-0003-1503-1929
+AD  - Centro de Investigacion Genetica y Genomica, Facultad de Ciencias de la Salud
+      Eugenio Espejo, Universidad UTE, Quito 170129, Ecuador.
+AD  - Latin American Network for Implementation and Validation of Clinical
+      Pharmacogenomics Guidelines (RELIVAF-CYTED), 28029 Madrid, Spain.
+FAU - Cabrera-Andrade, Alejandro
+AU  - Cabrera-Andrade A
+AUID- ORCID: 0000-0001-9702-6618
+AD  - Grupo de Bio-Quimioinformatica, Universidad de Las Americas, Quito 170513,
+      Ecuador.
+AD  - Carrera de Enfermeria, Facultad de Ciencias de la Salud, Universidad de Las
+      Americas, Quito 170513, Ecuador.
+FAU - Perez-Castillo, Yunierkis
+AU  - Perez-Castillo Y
+AUID- ORCID: 0000-0002-3710-0035
+AD  - Grupo de Bio-Quimioinformatica, Universidad de Las Americas, Quito 170513,
+      Ecuador.
+AD  - Escuela de Ciencias Fisicas y Matematicas, Universidad de Las Americas, Quito
+      170513, Ecuador.
+LA  - eng
+PT  - Journal Article
+DEP - 20201106
+PL  - Switzerland
+TA  - Molecules
+JT  - Molecules (Basel, Switzerland)
+JID - 100964009
+RN  - 0 (Antiviral Agents)
+RN  - 0 (Protease Inhibitors)
+RN  - 0 (Small Molecule Libraries)
+RN  - EC 3.4.22.- (3C-like protease, SARS coronavirus)
+RN  - EC 3.4.22.28 (Coronavirus 3C Proteases)
+RN  - GWH6IJ239E (Amobarbital)
+RN  - Q51BO43MG4 (Thyroxine)
+SB  - IM
+MH  - Amobarbital/pharmacology
+MH  - Antiviral Agents/chemistry/*pharmacology
+MH  - Binding Sites
+MH  - COVID-19/*drug therapy
+MH  - Computer Simulation
+MH  - Coronavirus 3C Proteases/*antagonists & inhibitors
+MH  - Drug Discovery/*methods
+MH  - Drug Repositioning/*methods
+MH  - Humans
+MH  - Machine Learning
+MH  - Molecular Docking Simulation
+MH  - Molecular Dynamics Simulation
+MH  - Pandemics
+MH  - Protease Inhibitors/chemistry/*pharmacology
+MH  - Protein Binding
+MH  - Quantitative Structure-Activity Relationship
+MH  - SARS-CoV-2/drug effects/*enzymology
+MH  - Small Molecule Libraries/chemistry
+MH  - Software
+MH  - Thermodynamics
+MH  - Thyroxine/pharmacology
+PMC - PMC7664330
+OTO - NOTNLM
+OT  - COVID-19
+OT  - QSAR
+OT  - SARS-CoV-2
+OT  - drugs repurposing
+OT  - molecular dynamics
+EDAT- 2020/11/12 06:00
+MHDA- 2020/12/15 06:00
+CRDT- 2020/11/11 01:02
+PHST- 2020/09/26 00:00 [received]
+PHST- 2020/10/28 00:00 [revised]
+PHST- 2020/11/04 00:00 [accepted]
+PHST- 2020/11/11 01:02 [entrez]
+PHST- 2020/11/12 06:00 [pubmed]
+PHST- 2020/12/15 06:00 [medline]
+AID - molecules25215172 [pii]
+AID - 10.3390/molecules25215172 [doi]
+PST - epublish
+SO  - Molecules. 2020 Nov 6;25(21). pii: molecules25215172. doi:
+      10.3390/molecules25215172.
+
+PMID- 31861689
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200520
+LR  - 20200520
+IS  - 1420-3049 (Electronic)
+IS  - 1420-3049 (Linking)
+VI  - 25
+IP  - 1
+DP  - 2019 Dec 19
+TI  - Modeling the Antileukemia Activity of Ellipticine-Related Compounds: QSAR and
+      Molecular Docking Study.
+LID - E24 [pii]
+LID - 10.3390/molecules25010024 [doi]
+AB  - The antileukemia cancer activity of organic compounds analogous to ellipticine
+      representes a critical endpoint in the understanding of this dramatic disease. A 
+      molecular modeling simulation on a dataset of 23 compounds, all of which comply
+      with Lipinski's rules and have a structure analogous to ellipticine, was
+      performed using the quantitative structure activity relationship (QSAR)
+      technique, followed by a detailed docking study on three different proteins
+      significantly involved in this disease (PDB IDs: SYK, PI3K and BTK). As a result,
+      a model with only four descriptors (HOMO, softness, AC1RABAMBID, and TS1KFABMID) 
+      was found to be robust enough for prediction of the antileukemia activity of the 
+      compounds studied in this work, with an R(2) of 0.899 and Q(2) of 0.730. A
+      favorable interaction between the compounds and their target proteins was found
+      in all cases; in particular, compounds 9 and 22 showed high activity and binding 
+      free energy values of around -10 kcal/mol. Theses compounds were evaluated in
+      detail based on their molecular structure, and some modifications are suggested
+      herein to enhance their biological activity. In particular, compounds 22_1, 22_2,
+      9_1, and 9_2 are indicated as possible new, potent ellipticine derivatives to be 
+      synthesized and biologically tested.
+FAU - Marquez, Edgar
+AU  - Marquez E
+AD  - Grupo de Investigacion en Quimica y Biologia, Departamento de Quimica y Biologia,
+      Universidad del Norte, Cra 51B, Km 5, via Puerto Colombia, Barranquilla 081007,
+      Colombia.
+FAU - Mora, Jose R
+AU  - Mora JR
+AD  - Grupo de Quimica computacional y teorica (QCT-USFQ) & instituto de Simulacion
+      Computacional (ISC-USF), Departamento de Ingenieria Quimica, Colegio Politecnico 
+      de Ciencias e Ingenieria, Diego de Robles, y via Interoceanica, Universidad San
+      Francisco de Quito, Quito 170901, Ecuador.
+FAU - Flores-Morales, Virginia
+AU  - Flores-Morales V
+AD  - Laboratorio de Sintesis Asimetrica y Bioenergetica (LSAyB), Ingenieria Quimica
+      (UACQ), Program of Doctorate in Sciences with orientation in Molecular Medicine, 
+      Academic Unit of Human Medicine and Health Sciences, Universidad Autonoma de
+      Zacatecas, Campus XXI Km 6 Carr. Zac-Gdl Edificio 6, 98160 Zacatecas, Mexico.
+FAU - Insuasty, Daniel
+AU  - Insuasty D
+AD  - Grupo de Investigacion en Quimica y Biologia, Departamento de Quimica y Biologia,
+      Universidad del Norte, Cra 51B, Km 5, via Puerto Colombia, Barranquilla 081007,
+      Colombia.
+FAU - Calle, Luis
+AU  - Calle L
+AD  - Instituto de Biomedicina, Facultad de Medicina, Universidad Catolica Santiago de 
+      Guayaquil, Guayaquil 09013493, Ecuador.
+LA  - eng
+PT  - Journal Article
+DEP - 20191219
+PL  - Switzerland
+TA  - Molecules
+JT  - Molecules (Basel, Switzerland)
+JID - 100964009
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (Ellipticines)
+RN  - EC 2.7.10.2 (Agammaglobulinaemia Tyrosine Kinase)
+RN  - EC 2.7.10.2 (BTK protein, human)
+RN  - EC 2.7.10.2 (SYK protein, human)
+RN  - EC 2.7.10.2 (Syk Kinase)
+SB  - IM
+MH  - Agammaglobulinaemia Tyrosine Kinase/chemistry/metabolism
+MH  - Antineoplastic Agents/*chemical synthesis/chemistry/pharmacology
+MH  - Cell Line, Tumor
+MH  - Density Functional Theory
+MH  - Ellipticines/*chemical synthesis/chemistry/pharmacology
+MH  - Humans
+MH  - Leukemia/drug therapy/*metabolism
+MH  - Models, Molecular
+MH  - Molecular Docking Simulation
+MH  - Molecular Dynamics Simulation
+MH  - Molecular Structure
+MH  - Phosphatidylinositol 3-Kinases/chemistry/metabolism
+MH  - Quantitative Structure-Activity Relationship
+MH  - Syk Kinase/chemistry/*metabolism
+PMC - PMC6982814
+OTO - NOTNLM
+OT  - QSAR
+OT  - cancer
+OT  - leukemia
+OT  - molecular descriptors
+OT  - molecular modeling
+COIS- The authors declare no conflict of interest.
+EDAT- 2019/12/22 06:00
+MHDA- 2020/05/21 06:00
+CRDT- 2019/12/22 06:00
+PHST- 2019/10/30 00:00 [received]
+PHST- 2019/12/11 00:00 [revised]
+PHST- 2019/12/16 00:00 [accepted]
+PHST- 2019/12/22 06:00 [entrez]
+PHST- 2019/12/22 06:00 [pubmed]
+PHST- 2020/05/21 06:00 [medline]
+AID - molecules25010024 [pii]
+AID - 10.3390/molecules25010024 [doi]
+PST - epublish
+SO  - Molecules. 2019 Dec 19;25(1). pii: molecules25010024. doi:
+      10.3390/molecules25010024.
+
+PMID- 30513742
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190211
+LR  - 20200225
+IS  - 1420-3049 (Electronic)
+IS  - 1420-3049 (Linking)
+VI  - 23
+IP  - 12
+DP  - 2018 Dec 1
+TI  - Classical QSAR and Docking Simulation of 4-Pyridone Derivatives for Their
+      Antimalarial Activity.
+LID - E3166 [pii]
+LID - 10.3390/molecules23123166 [doi]
+AB  - In this work, the minimum energy structures of 22 4-pyridone derivatives have
+      been optimized at Density Functional Theory level, and several quantum molecular,
+      including electronic and thermodynamic descriptors, were computed for these
+      substrates in order to obtain a statistical and meaningful QSAR equation. In this
+      sense, by using multiple linear regressions, five mathematical models have been
+      obtained. The best model with only four descriptors (r(2) = 0.86, Q(2) = 0.92,
+      S.E.P = 0.38) was validated by the leave-one-out cross-validation method. The
+      antimalarial activity can be explained by the combination of the four mentioned
+      descriptors e.g., electronic potential, dipolar momentum, partition coefficient
+      and molar refractivity. The statistical parameters of this model suggest that it 
+      is robust enough to predict the antimalarial activity of new possible compounds; 
+      consequently, three small chemical modifications into the structural core of
+      these compounds were performed specifically on the most active compound of the
+      series (compound 13). These three new suggested compounds were leveled as 13A,
+      13B and 13C, and the predicted biological antimalarial activity is 0.02 microM,
+      0.03 microM, and 0.07 microM, respectively. In order to complement these results 
+      focused on the possible action mechanism of the substrates, a docking simulation 
+      was included for these new structures as well as for the compound 13 and the
+      docking scores (binding affinity) obtained for the interaction of these
+      substrates with the cytochrome bc1, were -7.5, -7.2, -6.9 and -7.5 kcal/mol for
+      13A, 13B, 13C and compound 13, respectively, which suggests that these compounds 
+      are good candidates for its biological application in this illness.
+FAU - Flores-Sumoza, Maryury
+AU  - Flores-Sumoza M
+AD  - Laboratorio de Fisicoquimica Organica y Quimica Computacional, Escuela de
+      Ciencias, Departamento de Quimica, Universidad de Oriente, Barcelona 6001,
+      Venezuela. maryuryfs@yahoo.com.
+FAU - Alcazar, Jackson J
+AU  - Alcazar JJ
+AD  - Departamento de Quimica, Pontificia Universidad Catolica de Chile, Casilla 306,
+      Santiago 6094411, Chile. jacksonalcazar@gmail.com.
+FAU - Marquez, Edgar
+AU  - Marquez E
+AUID- ORCID: 0000-0002-7503-1528
+AD  - Grupo de Investigaciones en Quimica y Biologia, Departamento de Quimica y
+      Biologia, Facultad de Ciencias Exactas, Universidad del Norte, Carrera 51B, Km 5,
+      via Puerto Colombia, Barranquilla 081007, Colombia. ebrazon@uninorte.edu.co.
+FAU - Mora, Jose R
+AU  - Mora JR
+AUID- ORCID: 0000-0001-6128-9504
+AD  - Grupo de Quimica computacional y teorica (QCT-USFQ) & instituto de Simulacion
+      Computacional (ISC-USF) Colegio Politecnico de Ciencias e Ingenieria Diego de
+      Robles, y Via Interoceanica, Universidad San Francisco de Quito, Quito 170901,
+      Ecuador. jrmora@usfq.edu.ec.
+FAU - Lezama, Jesus
+AU  - Lezama J
+AD  - Laboratorio de Fisicoquimica Organica y Quimica Computacional, Escuela de
+      Ciencias, Departamento de Quimica, Universidad de Oriente, Barcelona 6001,
+      Venezuela. jlezgar@gmail.com.
+FAU - Puello, Esneyder
+AU  - Puello E
+AD  - Grupo de Investigacion en Oxi/Hidrotratamiento Catalitico y Nuevos Materiales,
+      Programa de Quimica-Ciencias Basicas, Universidad del Atlantico, Barranquilla
+      081001, Colombia. snypollqco@yahoo.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20181201
+PL  - Switzerland
+TA  - Molecules
+JT  - Molecules (Basel, Switzerland)
+JID - 100964009
+RN  - 0 (Antimalarials)
+RN  - 0 (Pyridones)
+RN  - 3P2MV07G53 (4-pyridone)
+SB  - IM
+MH  - Algorithms
+MH  - Antimalarials/*chemistry/*pharmacology
+MH  - Inhibitory Concentration 50
+MH  - *Molecular Docking Simulation
+MH  - *Molecular Dynamics Simulation
+MH  - Molecular Structure
+MH  - Parasitic Sensitivity Tests
+MH  - Pyridones/*chemistry/*pharmacology
+MH  - *Quantitative Structure-Activity Relationship
+PMC - PMC6321536
+OTO - NOTNLM
+OT  - DFT
+OT  - computational study
+OT  - molecular descriptors
+OT  - nitrogen compounds
+EDAT- 2018/12/06 06:00
+MHDA- 2019/02/12 06:00
+CRDT- 2018/12/06 06:00
+PHST- 2018/10/13 00:00 [received]
+PHST- 2018/11/21 00:00 [revised]
+PHST- 2018/11/22 00:00 [accepted]
+PHST- 2018/12/06 06:00 [entrez]
+PHST- 2018/12/06 06:00 [pubmed]
+PHST- 2019/02/12 06:00 [medline]
+AID - molecules23123166 [pii]
+AID - 10.3390/molecules23123166 [doi]
+PST - epublish
+SO  - Molecules. 2018 Dec 1;23(12). pii: molecules23123166. doi:
+      10.3390/molecules23123166.
+
+PMID- 30430931
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190107
+LR  - 20190107
+IS  - 1875-5305 (Electronic)
+IS  - 0929-8665 (Linking)
+VI  - 25
+IP  - 11
+DP  - 2018
+TI  - Classification-based QSAR Models for the Prediction of the Bioactivity of
+      ACE-inhibitor Peptides.
+PG  - 1015-1023
+LID - 10.2174/0929866525666181114145658 [doi]
+AB  - BACKGROUND: Local classification models were used to establish Quantitative
+      Structure- Activity Relationships (QSARs) of bioactive di-, tri- and
+      tetrapeptides, with their capacity to inhibit Angiotensin Converting Enzyme
+      (ACE). These discrete models can thus predict this activity for other peptides
+      obtained from functional foods. These types of peptides allow some foods to be
+      considered nutraceuticals. METHOD: A database of 313 molecules of di-, tri- and
+      tetrapeptides was investigated and antihypertensive activities of peptides,
+      expressed as log (1/IC50), were separated into two qualitative classes: low
+      activity (inactive) was associated with experimental values under the 66th
+      percentile and active peptides with values above this threshold. Chemicals were
+      divided into a training set, including 70% of the peptides, and a test set for
+      external validation. Genetic algorithms-variable subset selection coupled with
+      the kNN and N3 local classifiers were applied to select the best subset of
+      molecular descriptors from a pool of 953 Dragon descriptors. Both models were
+      validated on the test peptides. RESULTS: The N3 model turned out to be superior
+      to the kNN model when the classification focused on identifying the most active
+      peptides.
+CI  - Copyright(c) Bentham Science Publishers; For any queries, please email at
+      epub@benthamscience.net.
+FAU - Tripaldi, Piercosimo
+AU  - Tripaldi P
+AD  - Facultad de Ciencia y Tecnologia, Universidad del Azuay, Av. 24 de Mayo 7-77 y
+      Hernan Malo, Cuenca, Ecuador.
+FAU - Perez-Gonzalez, Andres
+AU  - Perez-Gonzalez A
+AD  - Facultad de Ciencia y Tecnologia, Universidad del Azuay, Av. 24 de Mayo 7-77 y
+      Hernan Malo, Cuenca, Ecuador.
+FAU - Rojas, Cristian
+AU  - Rojas C
+AD  - Facultad de Ciencia y Tecnologia, Universidad del Azuay, Av. 24 de Mayo 7-77 y
+      Hernan Malo, Cuenca, Ecuador.
+FAU - Radax, Johann
+AU  - Radax J
+AD  - Facultad de Medicina, Universidad del Azuay, Av. 24 de Mayo 7-77 y Hernan Malo,
+      Cuenca, Ecuador.
+FAU - Ballabio, Davide
+AU  - Ballabio D
+AD  - Milano Chemometrics and QSAR Research Group, Department of Earth and
+      Environmental Sciences, University of Milano Bicocca, Milan, Italy.
+FAU - Todeschini, Roberto
+AU  - Todeschini R
+AD  - Milano Chemometrics and QSAR Research Group, Department of Earth and
+      Environmental Sciences, University of Milano Bicocca, Milan, Italy.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Protein Pept Lett
+JT  - Protein and peptide letters
+JID - 9441434
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Oligopeptides)
+RN  - EC 3.4.15.1 (Peptidyl-Dipeptidase A)
+SB  - IM
+MH  - Angiotensin-Converting Enzyme Inhibitors/*chemistry/*pharmacology
+MH  - Databases, Protein
+MH  - Inhibitory Concentration 50
+MH  - Models, Statistical
+MH  - Oligopeptides/*chemistry/*pharmacology
+MH  - Peptidyl-Dipeptidase A/*metabolism
+MH  - *Quantitative Structure-Activity Relationship
+OTO - NOTNLM
+OT  - ACE
+OT  - Bioactive peptides
+OT  - Dragon descriptors
+OT  - N3
+OT  - QSAR
+OT  - kNN.
+EDAT- 2018/11/16 06:00
+MHDA- 2019/01/08 06:00
+CRDT- 2018/11/16 06:00
+PHST- 2018/04/19 00:00 [received]
+PHST- 2018/10/05 00:00 [revised]
+PHST- 2018/10/30 00:00 [accepted]
+PHST- 2018/11/16 06:00 [pubmed]
+PHST- 2019/01/08 06:00 [medline]
+PHST- 2018/11/16 06:00 [entrez]
+AID - PPL-EPUB-94537 [pii]
+AID - 10.2174/0929866525666181114145658 [doi]
+PST - ppublish
+SO  - Protein Pept Lett. 2018;25(11):1015-1023. doi: 10.2174/0929866525666181114145658.
+
+PMID- 29231145
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180308
+LR  - 20180605
+IS  - 1873-4294 (Electronic)
+IS  - 1568-0266 (Linking)
+VI  - 17
+IP  - 30
+DP  - 2018 Feb 9
+TI  - Learning from Multiple Classifier Systems: Perspectives for Improving Decision
+      Making of QSAR Models in Medicinal Chemistry.
+PG  - 3269-3288
+LID - 10.2174/1568026618666171212111018 [doi]
+AB  - Quantitative Structure - Activity Relationship (QSAR) modeling has been widely
+      used in medicinal chemistry and computational toxicology for many years. Today,
+      as the amount of chemicals is increasing dramatically, QSAR methods have become
+      pivotal for the purpose of handling the data, identifying a decision, and
+      gathering useful information from data processing. The advances in this field
+      have paved a way for numerous alternative approaches that require deep
+      mathematics in order to enhance the learning capability of QSAR models. One of
+      these directions is the use of Multiple Classifier Systems (MCSs) that
+      potentially provide a means to exploit the advantages of manifold learning
+      through decomposition frameworks, while improving generalization and predictive
+      performance. In this paper, we presented MCS as a next generation of QSAR
+      modeling techniques and discuss the chance to mining the vast number of models
+      already published in the literature. We systematically revisited the theoretical 
+      frameworks of MCS as well as current advances in MCS application for QSAR
+      practice. Furthermore, we illustrated our idea by describing ensemble approaches 
+      on modeling histone deacetylase (HDACs) inhibitors. We expect that our analysis
+      would contribute to a better understanding about MCS application and its future
+      perspectives for improving the decision making of QSAR models.
+CI  - Copyright(c) Bentham Science Publishers; For any queries, please email at
+      epub@benthamscience.org.
+FAU - Pham-The, Hai
+AU  - Pham-The H
+AD  - Hanoi University of Pharmacy, 13-15 Le Thanh Tong, Hanoi, Vietnam.
+FAU - Nam, Nguyen-Hai
+AU  - Nam NH
+AD  - Hanoi University of Pharmacy, 13-15 Le Thanh Tong, Hanoi, Vietnam.
+FAU - Nga, Doan-Viet
+AU  - Nga DV
+AD  - School of Medicine and Pharmacy, Vietnam National University (VNU), 144 Xuan
+      Thuy, Hanoi, Vietnam.
+FAU - Hai, Dang Thanh
+AU  - Hai DT
+AD  - University of Engineering and Technology, Vietnam National University, 144 Xuan
+      Thuy, Hanoi, Vietnam.
+FAU - Dieguez-Santana, Karel
+AU  - Dieguez-Santana K
+AD  - Faculty of Life Sciences, Amazonian State University, Puyo, Pastaza, Ecuador.
+FAU - Marrero-Poncee, Yovani
+AU  - Marrero-Poncee Y
+AD  - Universidad San Francisco de Quito (USFQ), Grupo de Medicina Molecular y
+      Traslacional (MeM&T), Colegio de Ciencias de la Salud (COCSA),Escuela de
+      Medicina, Edificio de Especialidades Medicas, Quito, Ecuador.
+FAU - Castillo-Garit, Juan A
+AU  - Castillo-Garit JA
+AD  - Unidad de Toxicologia Experimental, Universidad de Ciencias Medicas "Dr. Serafin 
+      Ruiz de Zarate Ruiz" de Villa Clara, Cuba.
+FAU - Casanola-Martin, Gerardo M
+AU  - Casanola-Martin GM
+AD  - Department of Systems and Computer Engineering, Carleton University, Ottawa, ON, 
+      Canada.
+FAU - Le-Thi-Thu, Huong
+AU  - Le-Thi-Thu H
+AD  - School of Medicine and Pharmacy, Vietnam National University (VNU), 144 Xuan
+      Thuy, Hanoi, Vietnam.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United Arab Emirates
+TA  - Curr Top Med Chem
+JT  - Current topics in medicinal chemistry
+JID - 101119673
+RN  - 0 (Histone Deacetylase Inhibitors)
+SB  - IM
+MH  - Animals
+MH  - Chemistry, Pharmaceutical/*methods
+MH  - Decision Making
+MH  - Histone Deacetylase Inhibitors/*chemistry/*pharmacology
+MH  - Humans
+MH  - Learning
+MH  - Models, Molecular
+MH  - *Quantitative Structure-Activity Relationship
+OTO - NOTNLM
+OT  - Artificial neural network
+OT  - Ensemble design
+OT  - Histone Deacetylase (HDAC) inhibitors
+OT  - Histone deacetylase
+OT  - Multiple classifier system
+OT  - Quantitative Structure -Activity Relationships (QSAR)
+EDAT- 2017/12/13 06:00
+MHDA- 2018/03/09 06:00
+CRDT- 2017/12/13 06:00
+PHST- 2017/11/02 00:00 [received]
+PHST- 2017/11/14 00:00 [revised]
+PHST- 2017/11/22 00:00 [accepted]
+PHST- 2017/12/13 06:00 [pubmed]
+PHST- 2018/03/09 06:00 [medline]
+PHST- 2017/12/13 06:00 [entrez]
+AID - CTMC-EPUB-87353 [pii]
+AID - 10.2174/1568026618666171212111018 [doi]
+PST - ppublish
+SO  - Curr Top Med Chem. 2018 Feb 9;17(30):3269-3288. doi:
+      10.2174/1568026618666171212111018.
+
+PMID- 28274840
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180404
+LR  - 20181113
+IS  - 1878-5832 (Electronic)
+IS  - 1359-6446 (Linking)
+VI  - 22
+IP  - 7
+DP  - 2017 Jul
+TI  - Systemic QSAR and phenotypic virtual screening: chasing butterflies in drug
+      discovery.
+PG  - 994-1007
+LID - S1359-6446(17)30107-1 [pii]
+LID - 10.1016/j.drudis.2017.02.004 [doi]
+AB  - Current advances in systems biology suggest a new change of paradigm reinforcing 
+      the holistic nature of the drug discovery process. According to the principles of
+      systems biology, a simple drug perturbing a network of targets can trigger
+      complex reactions. Therefore, it is possible to connect initial events with final
+      outcomes and consequently prioritize those events, leading to a desired effect.
+      Here, we introduce a new concept, 'Systemic Chemogenomics/Quantitative
+      Structure-Activity Relationship (QSAR)'. To elaborate on the concept, relevant
+      information surrounding it is addressed. The concept is challenged by
+      implementing a systemic QSAR approach for phenotypic virtual screening (VS) of
+      candidate ligands acting as neuroprotective agents in Parkinson's disease (PD).
+      The results support the suitability of the approach for the phenotypic
+      prioritization of drug candidates.
+CI  - Copyright (c) 2017 Elsevier Ltd. All rights reserved.
+FAU - Cruz-Monteagudo, Maykel
+AU  - Cruz-Monteagudo M
+AD  - CIQUP/Departamento de Quimica e Bioquimica, Faculdade de Ciencias, Universidade
+      do Porto, Porto 4169-007, Portugal. Electronic address: gmailkelcm@yahoo.es.
+FAU - Schurer, Stephan
+AU  - Schurer S
+AD  - Department of Pharmacology, Miller School of Medicine and Center for
+      Computational Science, University of Miami, Miami, FL 33136, USA.
+FAU - Tejera, Eduardo
+AU  - Tejera E
+AD  - Instituto de Investigaciones Biomedicas (IIB), Universidad de Las Americas,
+      170513 Quito, Ecuador.
+FAU - Perez-Castillo, Yunierkis
+AU  - Perez-Castillo Y
+AD  - Seccion Fisico Quimica y Matematicas, Departamento de Quimica, Universidad
+      Tecnica Particular de Loja, San Cayetano Alto S/N, EC1101608 Loja, Ecuador.
+FAU - Medina-Franco, Jose L
+AU  - Medina-Franco JL
+AD  - Universidad Nacional Autonoma de Mexico, Departamento de Farmacia, Facultad de
+      Quimica, Avenida Universidad 3000, Mexico City, 04510, Mexico.
+FAU - Sanchez-Rodriguez, Aminael
+AU  - Sanchez-Rodriguez A
+AD  - Departamento de Ciencias Naturales, Universidad Tecnica Particular de Loja, Calle
+      Paris S/N, EC1101608 Loja, Ecuador.
+FAU - Borges, Fernanda
+AU  - Borges F
+AD  - CIQUP/Departamento de Quimica e Bioquimica, Faculdade de Ciencias, Universidade
+      do Porto, Porto 4169-007, Portugal. Electronic address: fborges@fc.up.pt.
+LA  - eng
+GR  - U54 CA189205/CA/NCI NIH HHS/United States
+GR  - U54 HL127624/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PT  - Review
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20170306
+PL  - England
+TA  - Drug Discov Today
+JT  - Drug discovery today
+JID - 9604391
+SB  - IM
+MH  - *Drug Discovery
+MH  - Genomics
+MH  - Humans
+MH  - Phenotype
+MH  - *Quantitative Structure-Activity Relationship
+PMC - PMC5487293
+MID - NIHMS857937
+EDAT- 2017/03/10 06:00
+MHDA- 2018/04/05 06:00
+CRDT- 2017/03/10 06:00
+PHST- 2016/11/16 00:00 [received]
+PHST- 2017/02/02 00:00 [revised]
+PHST- 2017/02/27 00:00 [accepted]
+PHST- 2017/03/10 06:00 [pubmed]
+PHST- 2018/04/05 06:00 [medline]
+PHST- 2017/03/10 06:00 [entrez]
+AID - S1359-6446(17)30107-1 [pii]
+AID - 10.1016/j.drudis.2017.02.004 [doi]
+PST - ppublish
+SO  - Drug Discov Today. 2017 Jul;22(7):994-1007. doi: 10.1016/j.drudis.2017.02.004.
+      Epub 2017 Mar 6.
+
+PMID- 28161994
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170306
+LR  - 20211204
+IS  - 1029-046X (Electronic)
+IS  - 1026-776X (Linking)
+VI  - 28
+IP  - 1
+DP  - 2017 Jan
+TI  - Conformation-dependent QSAR approach for the prediction of inhibitory activity of
+      bromodomain modulators.
+PG  - 41-58
+LID - 10.1080/1062936X.2017.1278616 [doi]
+AB  - Epigenetic drug discovery is a promising research field with growing interest in 
+      the scientific community, as evidenced by the number of publications and the
+      large amount of structure-epigenetic activity information currently available in 
+      the public domain. Computational methods are valuable tools to analyse and
+      understand the activity of large compound collections from their structural
+      information. In this manuscript, QSAR models to predict the inhibitory activity
+      of a diverse and heterogeneous set of 88 organic molecules against the
+      bromodomains BRD2, BRD3 and BRD4 are presented. A conformation-dependent
+      representation of the chemical structures was established using the RDKit
+      software and a training and test set division was performed. Several two-linear
+      and three-linear QuBiLS-MIDAS molecular descriptors ( www.tomocomd.com ) were
+      computed to extract the geometric structural features of the compounds studied.
+      QuBiLS-MIDAS-based features sets, to be used in the modelling, were selected
+      using dimensionality reduction strategies. The multiple linear regression
+      procedure coupled with a genetic algorithm were employed to build the predictive 
+      models. Regression models containing between 6 to 9 variables were developed and 
+      assessed according to several internal and external validation methods. Analyses 
+      of outlier compounds and the applicability domain for each model were performed. 
+      As a result, the models against BRD2 and BRD3 with 8 variables and the model with
+      9 variables against BRD4 were those with the best overall performance according
+      to the criteria accounted for. The results obtained suggest that the models
+      proposed will be a good tool for studying the inhibitory activities of drug
+      candidates against the bromodomains considered during epigenetic drug discovery.
+FAU - Garcia-Jacas, C R
+AU  - Garcia-Jacas CR
+AD  - a Instituto de Quimica, Universidad Nacional Autonoma de Mexico (UNAM) , Ciudad
+      de Mexico , Mexico.
+AD  - b Escuela de Sistemas y Computacion , Pontificia Universidad Catolica del Ecuador
+      Sede Esmeraldas (PUCESE) , Esmeraldas , Ecuador.
+AD  - c Grupo de Investigacion de Bioinformatica , Universidad de las Ciencias
+      Informaticas (UCI) , La Habana , Cuba.
+FAU - Martinez-Mayorga, K
+AU  - Martinez-Mayorga K
+AD  - a Instituto de Quimica, Universidad Nacional Autonoma de Mexico (UNAM) , Ciudad
+      de Mexico , Mexico.
+FAU - Marrero-Ponce, Y
+AU  - Marrero-Ponce Y
+AD  - d Grupo de Medicina Molecular y Traslacional (MeM&T) , Universidad San Francisco 
+      de Quito (USFQ) , Quito , Ecuador.
+AD  - e Grupo de Investigacion Ambiental (GIA) , Fundacion Universitaria Tecnologica de
+      Comfenalco , Bolivar , Colombia.
+FAU - Medina-Franco, J L
+AU  - Medina-Franco JL
+AD  - f Departamento de Farmacia , Universidad Nacional Autonoma de Mexico (UNAM) ,
+      Ciudad de Mexico , Mexico.
+LA  - eng
+PT  - Journal Article
+DEP - 20170206
+PL  - England
+TA  - SAR QSAR Environ Res
+JT  - SAR and QSAR in environmental research
+JID - 9440156
+RN  - 0 (BRD2 protein, human)
+RN  - 0 (BRD3 protein, human)
+RN  - 0 (BRD4 protein, human)
+RN  - 0 (Cell Cycle Proteins)
+RN  - 0 (Enzyme Inhibitors)
+RN  - 0 (Nuclear Proteins)
+RN  - 0 (RNA-Binding Proteins)
+RN  - 0 (Transcription Factors)
+RN  - EC 2.7.11.1 (Protein Serine-Threonine Kinases)
+SB  - IM
+MH  - Cell Cycle Proteins
+MH  - Computer Simulation
+MH  - Enzyme Inhibitors/*chemistry/*pharmacology
+MH  - Epigenesis, Genetic/drug effects
+MH  - Models, Statistical
+MH  - Molecular Conformation
+MH  - Nuclear Proteins/*antagonists & inhibitors/chemistry
+MH  - Protein Serine-Threonine Kinases/*antagonists & inhibitors/chemistry
+MH  - *Quantitative Structure-Activity Relationship
+MH  - RNA-Binding Proteins/*antagonists & inhibitors/chemistry
+MH  - Transcription Factors/*antagonists & inhibitors/chemistry
+OTO - NOTNLM
+OT  - 3D molecular descriptors
+OT  - Applicability domain
+OT  - QSAR
+OT  - QuBiLS-MIDAS
+OT  - TOMOCOMD-CARDD
+OT  - bromodomains
+OT  - epigenetic drug discovery
+EDAT- 2017/02/07 06:00
+MHDA- 2017/03/07 06:00
+CRDT- 2017/02/07 06:00
+PHST- 2017/02/07 06:00 [pubmed]
+PHST- 2017/03/07 06:00 [medline]
+PHST- 2017/02/07 06:00 [entrez]
+AID - 10.1080/1062936X.2017.1278616 [doi]
+PST - ppublish
+SO  - SAR QSAR Environ Res. 2017 Jan;28(1):41-58. doi: 10.1080/1062936X.2017.1278616.
+      Epub 2017 Feb 6.
+
+PMID- 27707004
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170316
+LR  - 20170316
+IS  - 1029-046X (Electronic)
+IS  - 1026-776X (Linking)
+VI  - 27
+IP  - 12
+DP  - 2016 Dec
+TI  - N-tuple topological/geometric cutoffs for 3D N-linear algebraic molecular
+      codifications: variability, linear independence and QSAR analysis.
+PG  - 949-975
+AB  - Novel N-tuple topological/geometric cutoffs to consider specific inter-atomic
+      relations in the QuBiLS-MIDAS framework are introduced in this manuscript. These 
+      molecular cutoffs permit the taking into account of relations between more than
+      two atoms by using (dis-)similarity multi-metrics and the concepts related with
+      topological and Euclidean-geometric distances. To this end, the kth two-, three- 
+      and four-tuple topological and geometric neighbourhood quotient (NQ) total (or
+      local-fragment) spatial-(dis)similarity matrices are defined, to represent 3D
+      information corresponding to the relations between two, three and four atoms of
+      the molecular structures that satisfy certain cutoff criteria. First, an analysis
+      of a diverse chemical space for the most common values of
+      topological/Euclidean-geometric distances, bond/dihedral angles,
+      triangle/quadrilateral perimeters, triangle area and volume was performed in
+      order to determine the intervals to take into account in the cutoff procedures. A
+      variability analysis based on Shannon's entropy reveals that better distribution 
+      patterns are attained with the descriptors based on the cutoffs proposed
+      (QuBiLS-MIDAS NQ-MDs) with regard to the results obtained when all inter-atomic
+      relations are considered (QuBiLS-MIDAS KA-MDs - 'Keep All'). A principal
+      component analysis shows that the novel molecular cutoffs codify chemical
+      information captured by the respective QuBiLS-MIDAS KA-MDs, as well as
+      information not captured by the latter. Lastly, a QSAR study to obtain deeper
+      knowledge of the contribution of the proposed methods was carried out, using four
+      molecular datasets (steroids (STER), angiotensin converting enzyme (ACE),
+      thermolysin inhibitors (THER) and thrombin inhibitors (THR)) widely used as
+      benchmarks in the evaluation of several methodologies. One to four variable QSAR 
+      models based on multiple linear regression were developed for each compound
+      dataset following the original division into training and test sets. The results 
+      obtained reveal that the novel cutoff procedures yield superior performances
+      relative to those of the QuBiLS-MIDAS KA-MDs in the prediction of the biological 
+      activities considered. From the results achieved, it can be suggested that the
+      proposed N-tuple topological/geometric cutoffs constitute a relevant criteria for
+      generating MDs codifying particular atomic relations, ultimately useful in
+      enhancing the modelling capacity of the QuBiLS-MIDAS 3D-MDs.
+FAU - Garcia-Jacas, C R
+AU  - Garcia-Jacas CR
+AD  - a Escuela de Sistemas y Computacion , Pontificia Universidad Catolica del Ecuador
+      Sede Esmeraldas (PUCESE) , Esmeraldas , Ecuador.
+AD  - b Grupo de Investigacion de Bioinformatica , Instituto de Quimica, Universidad
+      Nacional Autonoma de Mexico (UNAM) , Ciudad de Mexico , D.F, Mexico.
+AD  - c Grupo de Investigacion de Bioinformatica , Universidad de las Ciencias
+      Informaticas (UCI) , La Habana , Cuba.
+FAU - Marrero-Ponce, Y
+AU  - Marrero-Ponce Y
+AD  - d Grupo de Medicina Molecular y Traslacional (MeM&T) , Universidad San Francisco 
+      de Quito (USFQ) , Quito , Ecuador.
+AD  - e Instituto de Simulacion Computacional (ISC-USFQ), Universidad San Francisco de 
+      Quito (USFQ) , Quito , Ecuador.
+FAU - Barigye, S J
+AU  - Barigye SJ
+AD  - g Department of Chemistry , McGill University , Montreal , Quebec , Canada.
+FAU - Hernandez-Ortega, T
+AU  - Hernandez-Ortega T
+AD  - c Grupo de Investigacion de Bioinformatica , Universidad de las Ciencias
+      Informaticas (UCI) , La Habana , Cuba.
+FAU - Cabrera-Leyva, L
+AU  - Cabrera-Leyva L
+AD  - f Grupo de Investigacion de Inteligencia Artificial (AIRES) , Universidad de
+      Camaguey , Camaguey , Cuba.
+FAU - Fernandez-Castillo, A
+AU  - Fernandez-Castillo A
+AD  - c Grupo de Investigacion de Bioinformatica , Universidad de las Ciencias
+      Informaticas (UCI) , La Habana , Cuba.
+LA  - eng
+PT  - Journal Article
+DEP - 20161006
+PL  - England
+TA  - SAR QSAR Environ Res
+JT  - SAR and QSAR in environmental research
+JID - 9440156
+RN  - 0 (Angiotensin-Converting Enzyme Inhibitors)
+RN  - 0 (Antithrombins)
+RN  - 0 (Steroids)
+RN  - EC 3.4.24.27 (Thermolysin)
+SB  - IM
+MH  - Angiotensin-Converting Enzyme Inhibitors/chemistry
+MH  - Antithrombins/chemistry
+MH  - Linear Models
+MH  - *Models, Chemical
+MH  - Molecular Structure
+MH  - Principal Component Analysis
+MH  - *Quantitative Structure-Activity Relationship
+MH  - Steroids/chemistry
+MH  - Thermolysin/antagonists & inhibitors
+OTO - NOTNLM
+OT  - *3D molecular descriptors
+OT  - *N-tuple molecular cutoffs
+OT  - *QSAR
+OT  - *QuBiLS-MIDAS
+OT  - *TOMOCOMD-CARDD
+EDAT- 2016/10/07 06:00
+MHDA- 2017/03/17 06:00
+CRDT- 2016/10/07 06:00
+PHST- 2016/10/07 06:00 [pubmed]
+PHST- 2017/03/17 06:00 [medline]
+PHST- 2016/10/07 06:00 [entrez]
+AID - 10.1080/1062936X.2016.1231714 [doi]
+PST - ppublish
+SO  - SAR QSAR Environ Res. 2016 Dec;27(12):949-975. doi:
+      10.1080/1062936X.2016.1231714. Epub 2016 Oct 6.
+
+PMID- 26355653
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160823
+LR  - 20171116
+IS  - 1549-960X (Electronic)
+IS  - 1549-9596 (Linking)
+VI  - 55
+IP  - 10
+DP  - 2015 Oct 26
+TI  - Harmonization of QSAR Best Practices and Molecular Docking Provides an Efficient 
+      Virtual Screening Tool for Discovering New G-Quadruplex Ligands.
+PG  - 2094-110
+LID - 10.1021/acs.jcim.5b00415 [doi]
+AB  - Telomeres and telomerase are key players in tumorogenesis. Among the various
+      strategies proposed for telomerase inhibition or telomere uncapping, the
+      stabilization of telomeric G-quadruplex (G4) structures is a very promising one. 
+      Additionally, G4 stabilizing ligands also act over tumors mediated by the
+      alternative elongation of telomeres. Accordingly, the discovery of novel
+      compounds able to act on telomeres and/or inhibit the telomerase enzyme by
+      stabilizing DNA telomeric G4 structures as well as the development of approaches 
+      efficiently prioritizing such compounds constitute active areas of research in
+      computational medicinal chemistry and anticancer drug discovery. In this
+      direction, we applied a virtual screening strategy based on the rigorous
+      application of QSAR best practices and its harmonized integration with
+      structure-based methods. More than 600,000 compounds from commercial databases
+      were screened, the first 99 compounds were prioritized, and 21 commercially
+      available and structurally diverse candidates were purchased and submitted to
+      experimental assays. Such strategy proved to be highly efficient in the
+      prioritization of G4 stabilizer hits, with a hit rate of 23.5%. The best G4
+      stabilizer hit found exhibited a shift in melting temperature from FRET assay of 
+      +7.3 degrees C at 5 muM, while three other candidates also exhibited a promising 
+      stabilizing profile. The two most promising candidates also exhibited a good
+      telomerase inhibitory ability and a mild inhibition of HeLa cells growth. None of
+      these candidates showed antiproliferative effects in normal fibroblasts. Finally,
+      the proposed virtual screening strategy proved to be a practical and reliable
+      tool for the discovery of novel G4 ligands which can be used as starting points
+      of further optimization campaigns.
+FAU - Castillo-Gonzalez, Daimel
+AU  - Castillo-Gonzalez D
+AD  - ARNA Laboratory, IECB, University of Bordeaux , F-33600 Pessac, France.
+AD  - ARNA Laboratory, INSERM, U869, F-33000 Bordeaux, France.
+FAU - Mergny, Jean-Louis
+AU  - Mergny JL
+AD  - ARNA Laboratory, IECB, University of Bordeaux , F-33600 Pessac, France.
+AD  - ARNA Laboratory, INSERM, U869, F-33000 Bordeaux, France.
+FAU - De Rache, Aurore
+AU  - De Rache A
+AD  - ARNA Laboratory, IECB, University of Bordeaux , F-33600 Pessac, France.
+AD  - ARNA Laboratory, INSERM, U869, F-33000 Bordeaux, France.
+FAU - Perez-Machado, Gisselle
+AU  - Perez-Machado G
+AD  - Molecular Simulation and Drug Design Group, Centro de Bioactivos Quimicos (CBQ), 
+      Central University of Las Villas , Santa Clara, Villa Clara 54830, Cuba.
+AD  - Department of Physiology, Faculty of Medicine, University of Valencia , Valencia 
+      46010, Valencia, Spain.
+AD  - Department of Pharmacy and Pharmaceutical Technology, University of Valencia ,
+      Burjassot 46100, Valencia, Spain.
+FAU - Cabrera-Perez, Miguel Angel
+AU  - Cabrera-Perez MA
+AD  - Molecular Simulation and Drug Design Group, Centro de Bioactivos Quimicos (CBQ), 
+      Central University of Las Villas , Santa Clara, Villa Clara 54830, Cuba.
+AD  - Department of Pharmacy and Pharmaceutical Technology, University of Valencia ,
+      Burjassot 46100, Valencia, Spain.
+AD  - Department of Engineering, Area of Pharmacy and Pharmaceutical Technology, Miguel
+      Hernandez University , 03550 Sant Joan d'Alacant, Alicante, Alicante, Spain.
+FAU - Nicolotti, Orazio
+AU  - Nicolotti O
+AD  - Dipartimento di Farmacia-Scienze, Universita degli Studi di Bari "Aldo Moro'' ,
+      Via Orabona 4, 70125 Bari, Bari, Italy.
+FAU - Introcaso, Antonellina
+AU  - Introcaso A
+AD  - Dipartimento di Farmacia-Scienze, Universita degli Studi di Bari "Aldo Moro'' ,
+      Via Orabona 4, 70125 Bari, Bari, Italy.
+FAU - Mangiatordi, Giuseppe Felice
+AU  - Mangiatordi GF
+AD  - Dipartimento di Farmacia-Scienze, Universita degli Studi di Bari "Aldo Moro'' ,
+      Via Orabona 4, 70125 Bari, Bari, Italy.
+FAU - Guedin, Aurore
+AU  - Guedin A
+AD  - ARNA Laboratory, IECB, University of Bordeaux , F-33600 Pessac, France.
+AD  - ARNA Laboratory, INSERM, U869, F-33000 Bordeaux, France.
+FAU - Bourdoncle, Anne
+AU  - Bourdoncle A
+AD  - ARNA Laboratory, IECB, University of Bordeaux , F-33600 Pessac, France.
+AD  - ARNA Laboratory, INSERM, U869, F-33000 Bordeaux, France.
+FAU - Garrigues, Teresa
+AU  - Garrigues T
+AD  - Department of Pharmacy and Pharmaceutical Technology, University of Valencia ,
+      Burjassot 46100, Valencia, Spain.
+FAU - Pallardo, Federico
+AU  - Pallardo F
+AD  - Department of Physiology, Faculty of Medicine, University of Valencia , Valencia 
+      46010, Valencia, Spain.
+FAU - Cordeiro, M Natalia D S
+AU  - Cordeiro MN
+FAU - Paz-Y-Mino, Cesar
+AU  - Paz-Y-Mino C
+AD  - Instituto de Investigaciones Biomedicas (IIB), Universidad de Las Americas ,
+      170513 Quito, Pichincha, Ecuador.
+FAU - Tejera, Eduardo
+AU  - Tejera E
+AD  - Instituto de Investigaciones Biomedicas (IIB), Universidad de Las Americas ,
+      170513 Quito, Pichincha, Ecuador.
+FAU - Borges, Fernanda
+AU  - Borges F
+FAU - Cruz-Monteagudo, Maykel
+AU  - Cruz-Monteagudo M
+AD  - Instituto de Investigaciones Biomedicas (IIB), Universidad de Las Americas ,
+      170513 Quito, Pichincha, Ecuador.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150918
+PL  - United States
+TA  - J Chem Inf Model
+JT  - Journal of chemical information and modeling
+JID - 101230060
+RN  - 0 (Acridines)
+RN  - 0 (Ligands)
+RN  - Z7C5CD91WI (BRACO-19)
+SB  - IM
+MH  - Acridines/*chemistry
+MH  - Cell Proliferation
+MH  - Crystallography, X-Ray
+MH  - Drug Discovery
+MH  - *Drug Evaluation, Preclinical
+MH  - Fibroblasts/chemistry
+MH  - *G-Quadruplexes
+MH  - HeLa Cells
+MH  - Humans
+MH  - Ligands
+MH  - *Molecular Docking Simulation
+MH  - Molecular Structure
+MH  - Quantitative Structure-Activity Relationship
+MH  - Telomere/chemistry
+EDAT- 2015/09/12 06:00
+MHDA- 2016/08/24 06:00
+CRDT- 2015/09/11 06:00
+PHST- 2015/09/11 06:00 [entrez]
+PHST- 2015/09/12 06:00 [pubmed]
+PHST- 2016/08/24 06:00 [medline]
+AID - 10.1021/acs.jcim.5b00415 [doi]
+PST - ppublish
+SO  - J Chem Inf Model. 2015 Oct 26;55(10):2094-110. doi: 10.1021/acs.jcim.5b00415.
+      Epub 2015 Sep 18.
